@@ -1,0 +1,9 @@
+Total 8 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/ashukarajgikar1805-boop/smart-ticket-booking-.git
+   7acf238..ec9a68d  main -> main
+PS C:\Users\sai\OneDrive\Desktop\Smart Ticket Booking System> git push
+Everything up-to-date
+PS C:\Users\sai\OneDrive\Desktop\Smart Ticket Booking System> git add .
+git commit -m "Added test file"
+git push
