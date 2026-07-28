@@ -180,11 +180,3 @@
   1. Request the user’s support tickets
 - Expected Result:
   - Only tickets belonging to the logged-in user are returned
-
-### TC-22: Admin can view pending support tickets
-- Scenario: TS-22
-- Steps:
-  1. Log in as admin
-  2. Request pending support tickets
-- Expected Result:
-  - Pending tickets are returned in correct order

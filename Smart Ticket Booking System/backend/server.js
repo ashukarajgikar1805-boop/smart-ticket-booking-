@@ -19,7 +19,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // Routes
-app.use('/api', authRoutes);
+// git push -u origin maingit push -u origin main
 app.use('/api/bookings', bookingRoutes);
 app.use('/api/support', supportRoutes);
 
