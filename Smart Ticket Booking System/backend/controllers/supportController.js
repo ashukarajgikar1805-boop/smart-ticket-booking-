@@ -1,3 +1,4 @@
+
 const SupportTicket = require('../models/SupportTicket');
 
 const createSupportTicket = async (req, res) => {
