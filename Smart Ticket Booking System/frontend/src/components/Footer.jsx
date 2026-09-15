@@ -40,6 +40,7 @@ function Footer() {
 
       <section className="footer-bottom">
         <p>© 2026 Smart Ticket Booking System. All rights reserved.</p>
+
         <div className="footer-socials">
           <a href="#">Facebook</a>
           <a href="#">LinkedIn</a>
@@ -47,7 +48,7 @@ function Footer() {
         </div>
       </section>
     </footer>
-  )
+  );
 }
 
-export default Footer
+export default Footer;
