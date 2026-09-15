@@ -15,7 +15,7 @@ function Footer() {
           <ul>
             <li><a href="#">About</a></li>
             <li><a href="#">Careers</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">Contacccgit remote add origin https://github.com/ashukarajgikar1805-boop/smart-ticket-booking-.gitt</a></li>
           </ul>
         </div>
 
